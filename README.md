@@ -11,5 +11,5 @@ Learning guide/references
 * Python.org Tutorial\
   https://docs.python.org/3/tutorial/index.html
   
-* Run Python code from your browser
+* Run Python code from your browser\
   https://repl.it/languages/python3
